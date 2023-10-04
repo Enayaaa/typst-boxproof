@@ -1,0 +1,11 @@
+[package]
+entrypoint = "src/lib.typ"
+name = "boxproof"
+version = "0.0.1"
+compiler = "0.8.0"
+authors = ["Enayatullah Norozi <>"]
+repository = "https://github.com/Enayaaa/typst-boxproof"
+description = "Simple boxproofs for natural deduction."
+keywords = [""]
+license = "MIT"
+exclude = ["LICENSE", "README.md"]
